@@ -1,0 +1,3 @@
+body { font-family: monospace; text-align: center; background: #222; color: #0f0; }
+#clock { font-size: 2em; margin-top: 20px; }
+select { margin-top: 20px; }
